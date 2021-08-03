@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@adriandamiaosoitic 
-aspnetboilerplate
-/
-aspnetboilerplate
-813
-9.7k
-3.5k
-Code
-Issues
-171
-Pull requests
-4
-Actions
-Security
-Insights
-aspnetboilerplate/.gitignore
-@ismcagdas
-ismcagdas modified .gitignore
-Latest commit e2a0e99 on 10 Apr 2020
- History
- 4 contributors
-@hikalkan@ismcagdas@osoykan@matkoch
-134 lines (111 sloc)  1.79 KB
   
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
 [Bb]in/
